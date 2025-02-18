@@ -18,4 +18,4 @@ Aerospace Engineering student specialized in data analysis with programming skil
 - **Process Optimization**: Improved customer service response times in an operational optimization project for a coffee shop business, reducing wait times (AJ – Team).
 
   ## Connect with Me  
-- To learn more about my projects or collaborate, contact me on [LinkedIn](https://www.linkedin.com/in/arantxa-mendoza-collado/).
+  To learn more about my projects or collaborate, contact me on [LinkedIn](https://www.linkedin.com/in/arantxa-mendoza-collado/).
