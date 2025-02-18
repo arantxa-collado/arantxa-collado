@@ -1,22 +1,21 @@
-# Hola, soy Arantxa Mendoza Collado
-
-## Sobre mí
-Estudiante de Ingeniería Aeroespacial especializada en análisis de datos con habilidades de programación en Python, SQL, Matlab, así como en la creación de dashboards con Tableau. Orientada a resultados y al aprovechamiento del análisis de datos para impulsar y resolver las necesidades del negocio. En búsqueda de desempeñar habilidades profesionales en el procesamiento de datos, análisis de datos, análisis de información y establecimiento de métricas.
+# Hello, I'm Arantxa Mendoza Collado
 
 
-## Qué hago
-- Realizo análisis de datos utilizando Python, SQL y Tableau para proyectos empresariales y tecnológicos.
-- Implemento técnicas de análisis de datos para optimizar procesos y mejorar la toma de decisiones.
-- Me interesa colaborar en proyectos de desarrollo tecnológico que impulsen la sostenibilidad.
+## About Me
+Aerospace Engineering student specialized in data analysis with programming skills in Python, SQL, and Matlab, as well as experience in creating dashboards with Tableau. Results-oriented and focused on leveraging data analysis to drive and solve business needs. Seeking to apply my professional skills in data processing, data analysis, information analysis, and metric development.
 
 
-## Proyectos destacados
-- **Proyectos del Bootcamp de Análisis de Datos**: Ejemplos de proyectos en análisis de datos desarrollados durante mi formación en TripleTen en donde 
-implementé técnica de análisis de datos para desarrollar proyectos empresariales, desde la recolección de datos
-hasta la generación de insights valiosos para la toma de decisiones estratégicas en entornos empresariales.
-- **Investigación en Manufactura Avanzada**: Realicé investigaciones sobre tendencias de mercado y modelos de negocio en el sector aeronáutico y espacial, evaluando la oferta de valor de diversas empresas (FUMEC).
-- **Optimización de Procesos**: Mejoré los tiempos de atención al cliente en un proyecto de optimización operativa para un negocio de cafetería, reduciendo el tiempo de espera (AJ – Team).
 
-  
-## Conecta conmigo
-- Para saber más sobre mis proyectos o colaborar, contáctame en [LinkedIn](https://www.linkedin.com/in/arantxa-mendoza-collado/).
+## What I do
+## What I Do  
+- I conduct data analysis using Python, SQL, and Tableau for business and technology projects.  
+- I implement data analysis techniques to optimize processes and improve decision-making.  
+- I am interested in collaborating on technology development projects that promote sustainability.
+- 
+## Featured Projects  
+- **Data Analysis Bootcamp Projects**: Examples of data analysis projects developed during my training at TripleTen, where I applied data analysis techniques to build business projects, from data collection to generating valuable insights for strategic decision-making in business environments.  
+- **Research in Advanced Manufacturing**: Conducted research on market trends and business models in the aerospace sector, evaluating the value proposition of various companies (FUMEC).  
+- **Process Optimization**: Improved customer service response times in an operational optimization project for a coffee shop business, reducing wait times (AJ – Team).
+
+  ## Connect with Me  
+- To learn more about my projects or collaborate, contact me on [LinkedIn](https://www.linkedin.com/in/arantxa-mendoza-collado/).
